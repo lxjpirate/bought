@@ -1,2 +1,2 @@
 # bought
-电商购物平台
+E-commerce shopping platform
